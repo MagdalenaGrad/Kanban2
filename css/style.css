@@ -1,6 +1,10 @@
 body {margin: 0;}
 * {box-sizing: border-box;}
 
+ul {
+  min-height: 100px;
+}
+
 .ui-sortable {
   min-height: 80px;
 }
